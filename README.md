@@ -5,6 +5,7 @@
 
 <img src="https://iconscout.com/lotties/software-engineer" alt="this slowpoke moves"  width="250" />
 [https://tenor.com/view/dev_animado-gif-25018018](https://iconscout.com/lotties/software-engineer)
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkZ2h2OHlwOGlyMDcwYWF6dWR0ZTR4MXhucjVjaXAxbXZ5aXExdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif
 
 - 🌱 I’m currently learning **Apache Kafka, Apache Flink,Apache NiFi, Talend, Informatica**
 
