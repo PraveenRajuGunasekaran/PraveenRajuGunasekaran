@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Making Recommendations](https://durhamcollege.desire2learn.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=440609&grpid=0&isprv=0&bp=0&ou=488471)
 
-<img src="https://iconscout.com/lotties/software-engineer" alt="this slowpoke moves"  width="250" />
-[https://tenor.com/view/dev_animado-gif-25018018](https://iconscout.com/lotties/software-engineer)
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkZ2h2OHlwOGlyMDcwYWF6dWR0ZTR4MXhucjVjaXAxbXZ5aXExdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkZ2h2OHlwOGlyMDcwYWF6dWR0ZTR4MXhucjVjaXAxbXZ5aXExdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="this slowpoke moves"  width="250" />
 
 - 🌱 I’m currently learning **Apache Kafka, Apache Flink,Apache NiFi, Talend, Informatica**
 
