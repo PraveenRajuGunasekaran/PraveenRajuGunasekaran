@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Making Recommendations](https://durhamcollege.desire2learn.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=440609&grpid=0&isprv=0&bp=0&ou=488471)
 
-https://tenor.com/view/dev_animado-gif-25018018
+[https://tenor.com/view/dev_animado-gif-25018018](https://iconscout.com/lotties/software-engineer)
 
 - 🌱 I’m currently learning **Apache Kafka, Apache Flink,Apache NiFi, Talend, Informatica**
 
