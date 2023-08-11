@@ -22,6 +22,9 @@
 
 - ⚡ Fun fact **Data engineers are the architects of the digital world, transforming raw data into valuable insights one line of code at a time**
 
+<img 
+src=" https://github.com/PraveenRajuGunasekaran/PraveenRajuGunasekaran/blob/main/Roadmap-final.jpg />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/praveenraju_dataengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="praveenraju_dataengineer" height="30" width="40" /></a>
